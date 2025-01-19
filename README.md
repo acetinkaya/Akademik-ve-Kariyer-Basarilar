@@ -20,7 +20,8 @@
 
 ---
 
-# * 2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.
+# TR - 2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.
+# EN - Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/igu-myo-4.jpeg)
 
