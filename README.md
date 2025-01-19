@@ -2,9 +2,7 @@
 
 ---
 
-## Akademik ve Kariyer Başarılar | Academic and Career Achievements
-
-##  Türkçe (TR) ve English (EN)
+## Akademik ve Kariyer Başarılar - Türkçe (TR) | Academic and Career Achievements - English (EN)
 
 # TR - 2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.'si olarak yer aldım.
 # EN - Ranked 5th in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
