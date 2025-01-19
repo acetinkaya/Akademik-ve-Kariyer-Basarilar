@@ -27,5 +27,6 @@
 
 ---
 
+# TR - 2025 yılı Google Scholar değerlendirmesi: i10-endeksi: 2, h-endeksi: 6 ve toplam alıntılar	89'dur. 
 
 
