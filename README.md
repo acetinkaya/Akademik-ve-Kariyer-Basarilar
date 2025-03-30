@@ -18,8 +18,8 @@
 
 ---
 
-# TR - 2025 yılı [Google Scholar değerlendirmesi](https://scholar.google.com/citations?user=XSEW-NcAAAAJ): i10-endeksi: 2, h-endeksi: 6 ve toplam alıntılar	95'dir. 
-# EN - The 2025 [Google Scholar evaluation indicates the following](https://scholar.google.com/citations?user=XSEW-NcAAAAJ): i10-index: 2, h-index: 6, and total citations: 95.
+# TR - 2025 yılı [Google Scholar değerlendirmesi](https://scholar.google.com/citations?user=XSEW-NcAAAAJ): i10-endeksi: 2, h-endeksi: 6 ve toplam alıntılar	100'dir. 
+# EN - The 2025 [Google Scholar evaluation indicates the following](https://scholar.google.com/citations?user=XSEW-NcAAAAJ): i10-index: 2, h-index: 6, and total citations: 100.
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/GoogleScholar100.png)
 -
