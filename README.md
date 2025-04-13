@@ -11,7 +11,7 @@
 
 ---
 
-# TR - 2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 5.'si olarak yer aldım.
+# TR - 2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 4.'si olarak yer aldım.
 # EN - Ranked 5th in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/MostActiveGithub.jpeg)
