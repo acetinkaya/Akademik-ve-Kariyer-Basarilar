@@ -22,7 +22,7 @@
 🏅 In the 2024 Overall Academic Performance Ranking:   
 👉 Ranked 31st across the entire university.   
 
-![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/igu-myo-4.jpeg)
+![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/2025sertifika-2.jpg)
 
 ---
 
