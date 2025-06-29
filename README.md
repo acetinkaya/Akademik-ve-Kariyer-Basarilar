@@ -8,19 +8,19 @@
 
 # TR - 2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-akademik-performans-odulleri-sahiplerini-buldu), 
 
-🏆 2024 Yılı Proje, Patent ve Tasarım Kategorisinde:
-👉 Üniversite genel sıralamasında 2. olarak yer aldım.
+🏆 2024 Yılı Proje, Patent ve Tasarım Kategorisinde:    
+👉 Üniversite genel sıralamasında 2. olarak yer aldım.    
 
-🏅 2024 Akademik Performans Genel Sıralamasında:
-👉 Üniversite genel sıralamasında 31. olarak yer aldım.
+🏅 2024 Akademik Performans Genel Sıralamasında:   
+👉 Üniversite genel sıralamasında 31. olarak yer aldım.   
 
 # EN - in the 2025, [2025 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-find-its-owners-at-istanbul-gelisim-university)
 
-🏆 In the 2024 Project, Patent, and Design Category:
-👉 Ranked 2nd across the entire university.
+🏆 In the 2024 Project, Patent, and Design Category:   
+👉 Ranked 2nd across the entire university.   
 
-🏅 In the 2024 Overall Academic Performance Ranking:
-👉 Ranked 31st across the entire university.
+🏅 In the 2024 Overall Academic Performance Ranking:   
+👉 Ranked 31st across the entire university.   
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/igu-myo-4.jpeg)
 
