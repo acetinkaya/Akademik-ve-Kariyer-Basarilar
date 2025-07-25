@@ -6,6 +6,11 @@
 
 ---
 
+# TR - 2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.'sü olarak yer aldım.
+
+
+---
+
 # TR - 2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-akademik-performans-odulleri-sahiplerini-buldu), 
 
 🏆 2024 Yılı Proje, Patent ve Tasarım Kategorisinde:    
