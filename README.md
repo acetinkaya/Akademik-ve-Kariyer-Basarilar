@@ -1,4 +1,4 @@
-## Akademik-ve-Kariyer-Basarilar
+## Akademik-ve-Kariyer-Basarilar 
 
 ---
 
@@ -61,6 +61,7 @@
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/GoogleScholar100.png)
 -
+
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/GoogleScholar_Alicetinkaya4.png) 
 
 ---
