@@ -8,7 +8,7 @@
 
 ## Akademik Tanıtım ve Program Videoları        
 
-![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/ins2.png) 
+![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/ins2.png) [Youtube Link:](https://www.youtube.com/watch?v=gRhkH-HEsMw)
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/ins3.png) 
 
