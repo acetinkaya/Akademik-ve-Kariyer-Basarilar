@@ -7,7 +7,7 @@
 ---
 
 # Öğr. Gör. Ali Çetinkaya - 
-
+## Akademik Tanıtım ve Program Videoları 
 
 
 ---
