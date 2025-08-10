@@ -1,15 +1,12 @@
 ## Akademik-ve-Kariyer-Basarilar 
 
 ---
-
-## Akademik ve Kariyer Başarılar - Türkçe (TR) | Academic and Career Achievements - English (EN)
+# Öğr. Gör. Ali Çetinkaya -   
+## Akademik ve Kariyer Başarılar - Türkçe (TR) | Academic and Career Achievements - English (EN)    
 
 ---
 
-# Öğr. Gör. Ali Çetinkaya -     
 ## Akademik Tanıtım ve Program Videoları        
-## Academic Introduction & Program Videos       
-    
 
 ---
 
