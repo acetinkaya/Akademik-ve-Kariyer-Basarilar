@@ -6,10 +6,10 @@
 
 ---
 
-# Öğr. Gör. Ali Çetinkaya -    
-## Akademik Tanıtım ve Program Videoları    
-## Academic Introduction & Program Videos   
-
+# Öğr. Gör. Ali Çetinkaya -     
+## Akademik Tanıtım ve Program Videoları        
+## Academic Introduction & Program Videos       
+    
 
 ---
 
