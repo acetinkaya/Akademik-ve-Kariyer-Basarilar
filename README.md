@@ -6,7 +6,8 @@
 
 ---
 
-# Öğr.
+# Öğr. Gör. Ali Çetinkaya - 
+
 
 
 ---
