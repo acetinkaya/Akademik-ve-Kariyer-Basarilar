@@ -13,7 +13,9 @@
 
 ## 2025 Yılı Tübitak Proje Çalışmaları Listesi
 
+![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/2025-tubitak.jpeg)
 
+---
 
 ## Akademik Tanıtım ve Program Videoları        
 
