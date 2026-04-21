@@ -6,6 +6,8 @@
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/22042026.png)
+
 ## Akademik Tanıtım ve Program Videoları        
 
 ![alternatif metin](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar/blob/main/ins2.png)     
